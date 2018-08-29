@@ -1,0 +1,494 @@
+[
+  {
+    "Immagine": "d1",
+    "Autore": "Owen Jones",
+    "Nome": "Foglie di ippocastano, studio di composizione naturalistica",
+    "Data": "1856"
+  },
+  {
+    "Immagine": "d2",
+    "Autore": "Morris",
+    "Nome": "Frontespizio del suo volume News From Nowhere",
+    "Data": "1892"
+  },
+  {
+    "Immagine": "d3",
+    "Autore": "Muckmurdo",
+    "Nome": "Frontespizio per il libro sulle chiese londinesi di Wren",
+    "Data": "1883"
+  },
+  {
+    "Immagine": "d4",
+    "Autore": "Ricketts",
+    "Nome": "Frontespizio per l 'opera Nimphidia and the Muses ' Elizium",
+    "Data": "1896"
+  },
+  {
+    "Immagine": "d5",
+    "Autore": "Beardsley",
+    "Nome": "Salomè",
+    "Data": "1893"
+  },
+  {
+    "Immagine": "d6",
+    "Autore": "Bradley",
+    "Nome": "Manifesto",
+    "Data": "1895"
+  },
+  {
+    "Immagine": "d7",
+    "Autore": "Bradley",
+    "Nome": "The serpentine dancer",
+    "Data": "1894"
+  },
+  {
+    "Immagine": "d8",
+    "Autore": "Van de Velde",
+    "Nome": "Tropon",
+    "Data": "1898"
+  },
+  {
+    "Immagine": "d9",
+    "Autore": "Beardsley",
+    "Nome": "Copertina per The Studio",
+    "Data": "1893"
+  },
+  {
+    "Immagine": "d10",
+    "Autore": "Roller",
+    "Nome": "Copertina del primo numero di Ver Sacrum",
+    "Data": "1898"
+  },
+  {
+    "Immagine": "d11",
+    "Autore": "Cheret",
+    "Nome": "Manifesto per un circo",
+    "Data": "1875"
+  },
+  {
+    "Immagine": "d12",
+    "Autore": "Cheret",
+    "Nome": "Folies-Bergere",
+    "Data": "1893"
+  },
+  {
+    "Immagine": "d13",
+    "Autore": "Cheret",
+    "Nome": "Palais de Glace",
+    "Data": "1896"
+  },
+  {
+    "Immagine": "d14",
+    "Autore": "Toulouse-Lautrec",
+    "Nome": "Moulin Rouge",
+    "Data": "1891"
+  },
+  {
+    "Immagine": "d15",
+    "Autore": "Toulouse-Lautrec",
+    "Nome": "Jane Avril",
+    "Data": "1893"
+  },
+  {
+    "Immagine": "d16",
+    "Autore": "Toulouse-Lautrec",
+    "Nome": "Aristide Bruant",
+    "Data": "1892"
+  },
+  {
+    "Immagine": "d17",
+    "Autore": "Toulouse-Lautrec",
+    "Nome": "Manifesto per Jane Avril",
+    "Data": "1899"
+  },
+  {
+    "Immagine": "d18",
+    "Autore": "Grasset",
+    "Nome": "Frontespizio di  Histoire des Quatre Fils Aymon ",
+    "Data": "1884"
+  },
+  {
+    "Immagine": "d19",
+    "Autore": "Grasset",
+    "Nome": "Manifesto per l 'Encre Marquet",
+    "Data": "1892"
+  },
+  {
+    "Immagine": "d20",
+    "Autore": "Grasset",
+    "Nome": "Manifesto per il Salon des Cent",
+    "Data": "1894"
+  },
+  {
+    "Immagine": "d21",
+    "Autore": "Grasset",
+    "Nome": "Suzy Deguez",
+    "Data": "1896"
+  },
+  {
+    "Immagine": "d22",
+    "Autore": "Mucha",
+    "Nome": "Pubblicità per le sigarette Job",
+    "Data": "1896"
+  },
+  {
+    "Immagine": "d23",
+    "Autore": "Melticovitz",
+    "Nome": "Manifesto per Cabiria",
+    "Data": "1914"
+  },
+  {
+    "Immagine": "d24",
+    "Autore": "Hohenstein",
+    "Nome": "Manifesto per Tosca",
+    "Data": "1899"
+  },
+  {
+    "Immagine": "d25",
+    "Autore": "Dudovich",
+    "Nome": "Manifesto per i magazzini Mele di Napoli",
+    "Data": "1908"
+  },
+  {
+    "Immagine": "d26",
+    "Autore": "Alessandro Terzi",
+    "Nome": "Manifesto per Dentol",
+    "Data": "1914"
+  },
+  {
+    "Immagine": "d27",
+    "Autore": "Alessandro Terzi",
+    "Nome": "Manifesto per Max Mayer",
+    "Data": "1921"
+  },
+  {
+    "Immagine": "d28",
+    "Autore": "Sacchetti",
+    "Nome": "Manifesto per Bitter Campari",
+    "Data": "1921"
+  },
+  {
+    "Immagine": "d29",
+    "Autore": "Cappiello",
+    "Nome": "Manifesto per  Le Frou- Frou ",
+    "Data": "1899"
+  },
+  {
+    "Immagine": "d30",
+    "Autore": "Cappiello",
+    "Nome": "Manifesto",
+    "Data": "1901"
+  },
+  {
+    "Immagine": "d31",
+    "Autore": "Cappiello",
+    "Nome": "Manifesto per Chocolat Klaus",
+    "Data": "1904"
+  },
+  {
+    "Immagine": "d32",
+    "Autore": "Cappiello",
+    "Nome": "Manifesto per Maurin Quina",
+    "Data": "1906"
+  },
+  {
+    "Immagine": "d33",
+    "Autore": "Cappiello",
+    "Nome": "Manifesto per Thermogene",
+    "Data": "1909"
+  },
+  {
+    "Immagine": "d34",
+    "Autore": "Cappiello",
+    "Nome": "Manifesto per Bitter Campari",
+    "Data": "1921"
+  },
+  {
+    "Immagine": "d35",
+    "Autore": "Klimt",
+    "Nome": "Manifesto per la prima Esposizione della Secessione Viennese",
+    "Data": "1898"
+  },
+  {
+    "Immagine": "d36",
+    "Autore": "Moser",
+    "Nome": "Manifesto per la XIII Mostra della Secessione Viennese",
+    "Data": "1902"
+  },
+  {
+    "Immagine": "d37",
+    "Autore": "Behrens",
+    "Nome": "Manifesto per il settore lampade della AEG",
+    "Data": "1910"
+  },
+  {
+    "Immagine": "d38",
+    "Autore": "Behrens",
+    "Nome": "Variante del marchio dell 'AEG",
+    "Data": "1908"
+  },
+  {
+    "Immagine": "d39",
+    "Autore": "Behrens",
+    "Nome": "Marchio ufficiale AEG",
+    "Data": "1912"
+  },
+  {
+    "Immagine": "d40",
+    "Autore": "Behrens",
+    "Nome": "Pagina intera del catalogo",
+    "Data": "1908"
+  },
+  {
+    "Immagine": "d41",
+    "Autore": "Heine",
+    "Nome": "Manifesto",
+    "Data": "1897"
+  },
+  {
+    "Immagine": "d42",
+    "Autore": "Bernhard",
+    "Nome": "Manifesto",
+    "Data": "1908"
+  },
+  {
+    "Immagine": "d43",
+    "Autore": "Erdt",
+    "Nome": "Manifesto",
+    "Data": "1911"
+  },
+  {
+    "Immagine": "d44",
+    "Autore": "Hohlwein",
+    "Nome": "Manifesto",
+    "Data": "1910"
+  },
+  {
+    "Immagine": "d45",
+    "Autore": "Hohlwein",
+    "Nome": "Manifesto pubblicitario",
+    "Data": "1908"
+  },
+  {
+    "Immagine": "d46",
+    "Autore": "Pechstein",
+    "Nome": "Manifesto per una esposizione",
+    "Data": "1910"
+  },
+  {
+    "Immagine": "d47",
+    "Autore": "Kirchner",
+    "Nome": "Manifesto",
+    "Data": "1905-1907"
+  },
+  {
+    "Immagine": "d48",
+    "Autore": "Kokoschka",
+    "Nome": "Manifesto",
+    "Data": "1911"
+  },
+  {
+    "Immagine": "d49",
+    "Autore": "Marinetti",
+    "Nome": "Copertina",
+    "Data": "1914"
+  },
+  {
+    "Immagine": "d50",
+    "Autore": "Govoni",
+    "Nome": "Autoritratto",
+    "Data": "1915"
+  },
+  {
+    "Immagine": "d51",
+    "Autore": "Lissitzky",
+    "Nome": "Insinua nei bianchi il cuneo rosso",
+    "Data": "1919"
+  },
+  {
+    "Immagine": "d52",
+    "Autore": "Rodchenko",
+    "Nome": "Manifesto pubblicitario per Gosizdat",
+    "Data": "1924"
+  },
+  {
+    "Immagine": "d53",
+    "Autore": "Van Doesburg",
+    "Nome": "Pagina della rivista  Mecano ",
+    "Data": "1922"
+  },
+  {
+    "Immagine": "d54",
+    "Autore": "Van Doesburg",
+    "Nome": "Alfabeto sperimentale",
+    "Data": "1919"
+  },
+  {
+    "Immagine": "d55",
+    "Autore": "Schlemmer",
+    "Nome": "Sigillo ufficiale del Bauhaus",
+    "Data": "1922"
+  },
+  {
+    "Immagine": "d56",
+    "Autore": "Bayer",
+    "Nome": "Progetto per un alfabeto universale",
+    "Data": "1925"
+  },
+  {
+    "Immagine": "d57",
+    "Autore": "Bayer",
+    "Nome": "Programma didattico Bauhaus",
+    "Data": "1925"
+  },
+  {
+    "Immagine": "d58",
+    "Autore": "Molnar",
+    "Nome": "Bauhausb�cher I",
+    "Data": "1925"
+  },
+  {
+    "Immagine": "d59",
+    "Autore": "Bayer",
+    "Nome": "Bayer Type",
+    "Data": "1931"
+  },
+  {
+    "Immagine": "d60",
+    "Autore": "Schmidt",
+    "Nome": "Manifesto per l 'esposizione del Bauhaus",
+    "Data": "1923"
+  },
+  {
+    "Immagine": "d61",
+    "Autore": "Huszar",
+    "Nome": "Copertina di  De Stijl ",
+    "Data": "1917"
+  },
+  {
+    "Immagine": "d62",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto",
+    "Data": "1925"
+  },
+  {
+    "Immagine": "d63",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto per il quotidiano  L 'Intransigeant ",
+    "Data": "1925"
+  },
+  {
+    "Immagine": "d64",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto per le ferrovie",
+    "Data": "1927"
+  },
+  {
+    "Immagine": "d65",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto",
+    "Data": "1927"
+  },
+  {
+    "Immagine": "d66",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto",
+    "Data": "1927"
+  },
+  {
+    "Immagine": "d67",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto",
+    "Data": "1932"
+  },
+  {
+    "Immagine": "d68",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto per una compagnia di navigazione",
+    "Data": "1931"
+  },
+  {
+    "Immagine": "d69",
+    "Autore": "Cassandre",
+    "Nome": "Trittico di manifesti per Dubonnet",
+    "Data": "1932"
+  },
+  {
+    "Immagine": "d70",
+    "Autore": "Cassandre",
+    "Nome": "Manifesto per un produttore di vini",
+    "Data": "1935"
+  },
+  {
+    "Immagine": "d71",
+    "Autore": "Cassandre",
+    "Nome": "Monogramma e logotipo per Yves Saint-Laurent",
+    "Data": "1960-1963"
+  },
+  {
+    "Immagine": "d72",
+    "Autore": "Depero",
+    "Nome": "Uomo-matita impennacchiato",
+    "Data": "1926"
+  },
+  {
+    "Immagine": "d73",
+    "Autore": "Depero",
+    "Nome": "Libro  Bullonato  per Azari",
+    "Data": "1927"
+  },
+  {
+    "Immagine": "d74",
+    "Autore": "Depero",
+    "Nome": "Copertina per  Vanity Fair ",
+    "Data": "1930"
+  },
+  {
+    "Immagine": "d75",
+    "Autore": "Depero",
+    "Nome": "Manifesto squisito al Selz",
+    "Data": "1926"
+  },
+  {
+    "Immagine": "d76",
+    "Autore": "Nizzoli",
+    "Nome": "Manifesto per Campari",
+    "Data": "1931"
+  },
+  {
+    "Immagine": "d77",
+    "Autore": "Loewy",
+    "Nome": "Restyling del pacchetto di sigarette Lucky Strike",
+    "Data": "1940"
+  },
+  {
+    "Immagine": "d78",
+    "Autore": "Schawinsky (Studio Boggeri)",
+    "Nome": "Manifesto per il caffè  Illy",
+    "Data": "1934"
+  },
+  {
+    "Immagine": "d79",
+    "Autore": "Huber",
+    "Nome": "Annuncio pubblicitario (Studio Boggeri)",
+    "Data": "1940"
+  },
+  {
+    "Immagine": "d80",
+    "Autore": "Huber",
+    "Nome": "Copertina di un opuscolo promozionale",
+    "Data": "1940"
+  },
+  {
+    "Immagine": "d81",
+    "Autore": "Deberny & Peignot",
+    "Nome": "logotipo per lo Studio Boggeri",
+    "Data": "1933"
+  },
+  {
+    "Immagine": "d82",
+    "Autore": "Boggeri",
+    "Nome": "Annuncio dello Studio Boggeri",
+    "Data": "1933"
+  }
+]
